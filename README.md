@@ -91,12 +91,8 @@ Portanto, o dashboard reflete o **catálogo disponível no PS5** por ano de lan�
 ├── request.py          # Autenticação e geração de token OAuth
 ├── main.py             # Extração dos jogos e carga no banco
 ├── jogos_ps5.db        # Banco SQLite gerado
-├── normalizacao.sql    # Scripts SQL de normalização (esquema estrela)
-├── docs/               # Imagens e prints do dashboard
 └── README.md
 ```
-
-> *Ajuste os nomes de arquivo conforme a estrutura real do seu repositório.*
 
 ---
 
