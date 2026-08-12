@@ -2,8 +2,8 @@
 
 Pipeline de dados completo — da extração via API ao dashboard interativo — analisando o catálogo de jogos do PlayStation 5. Projeto de portfólio construído para praticar o ciclo end-to-end de um analista de dados: **extração → transformação → modelagem → visualização**.
 
-![Dashboard final](<img width="1076" height="607" alt="image" src="https://github.com/user-attachments/assets/7dc69e21-b4be-4840-a9ec-60daddcd7033" />
-)
+<img width="1081" height="602" alt="image" src="https://github.com/user-attachments/assets/9bf7f9ed-4cab-4160-9623-fe896898cfd7" />
+
 ## 📌 Sobre o projeto
 
 O objetivo foi construir um pipeline realista, passando por cada camada que um analista de dados encontra no dia a dia — desde lidar com uma API que não entrega os dados prontos, até modelar um esquema relacional e apresentar os resultados num dashboard.
